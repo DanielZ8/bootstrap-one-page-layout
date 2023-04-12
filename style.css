@@ -1,0 +1,244 @@
+body
+{
+	margin: 0px;
+    font-family: 'Raleway', sans-serif;
+	color: #000000;
+	font-weight: 200;
+	position: relative;
+}
+
+
+a:link
+{
+	color: white;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: white;
+	text-decoration: none;
+}
+
+.disable
+{
+	color: grey;
+}
+
+
+#underbar
+{
+	width: 100%;
+	height: 88px;
+}
+
+#map img
+{
+	width: 100%;
+	height: auto;
+}
+
+.carousel-inner img
+{
+    -webkit-filter: grayscale(50%);
+    filter: grayscale(50%); /* make all photos black and white */
+    width: 100%;
+    margin: auto;
+}
+
+.color1
+{
+	background-color: #d3d4d6;
+}
+
+.color2
+{
+	background-color: #000000;
+}
+
+.color3
+{
+	background-color: #4549bf;
+}
+
+.color4
+{
+	color: #4549bf;
+}
+
+.padding1
+{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.padding2
+{
+	padding-top: 100px;
+	padding-bottom: 100px;
+	padding-left: 70px;
+	padding-right: 70px;
+}
+
+.padding3
+{
+	padding-top: 100px;
+	padding-bottom: 100px;
+	padding-left: 60px;
+	padding-right: 60px;
+}
+
+.padding4
+{
+	padding-top: 30px;
+	padding-bottom: 10px;
+
+}
+
+.iconsize
+{
+	font-size: 230px;
+}
+
+.carousel-indicators li.active
+{
+    background-color: #4549bf;
+}
+.carousel-control-prev-icon {
+ background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%234549bf' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel-control-next-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%234549bf' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
+
+
+.navbar
+{
+    margin-bottom: 0;
+    background-color: #d3d4d6;
+    z-index: 9999;
+    border: 0;
+    font-size: 18px !important;
+    letter-spacing: 2px;
+		opacity: 0.94;
+
+}
+.navbar li a, .navbar .navbar-brand
+{
+    color: #000 !important;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a
+{
+		color: white !important;
+
+}
+
+.navbar a.active
+{
+    color: white !important;
+		background-color: #4549bf  !important;
+		border-radius: 2px !important;
+}
+
+.navbar-default .navbar-toggle
+{
+    border-color: #4549bf;
+    color: #fff !important;
+}
+
+.textxd
+{
+	text-align: center !important;
+}
+
+
+/* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen) */
+.icon-bar {
+  position: absolute;
+	position: fixed;
+	z-index: 9999;
+  top: 50%;
+	right: 0;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+/* Style the icon bar links */
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 10px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 20px;
+	opacity: 0.94;
+}
+
+/* Style the social media icons with color, if you want */
+.icon-bar a:hover {
+  background-color: #4549bf;
+}
+
+.facebook {
+  background: #494b50;
+}
+
+.instagram {
+  background: #494b50;
+}
+
+.youtube {
+  background: #494b50;
+}
+
+.slideanim {visibility:hidden;}
+.slide {
+    /* The name of the animation */
+    animation-name: slide;
+    -webkit-animation-name: slide;
+    /* The duration of the animation */
+    animation-duration: 1s;
+    -webkit-animation-duration: 1s;
+    /* Make the element visible */
+    visibility: visible;
+}
+
+/* Go from 0% to 100% opacity (see-through) and specify the percentage from when to slide in the element along the Y-axis */
+@keyframes slide {
+    0% {
+        opacity: 0;
+        transform: translateY(70%);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(10%);
+    }
+}
+@-webkit-keyframes slide
+{
+    0% {
+        opacity: 0;
+        -webkit-transform: translateY(70%);
+    }
+    100% {
+        opacity: 1;
+        -webkit-transform: translateY(10%);
+    }
+}
+
+.photo
+{
+	transition: all 0.2s ease-in-out;
+}
+
+.photo:hover
+{
+	-webkit-transform: scale(0.9);
+	-ms-transform: scale(0.9);
+	transform: scale(0.9);
+}
