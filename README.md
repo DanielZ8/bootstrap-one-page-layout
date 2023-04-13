@@ -15,17 +15,17 @@ Wykonany przy użyciu:
 
 ![Screenshot](screenshots/1.png)
 
-![Screenshot](https://raw.githubusercontent.com/DanielZ8/bootstrap-one-page-layout/master/screenshots/2.png?token=GHSAT0AAAAAAB7PL7UMKIXYRJENXZYFPGX4ZBYPMZA)
+![Screenshot](screenshots/2.png)
 
-![Screenshot](https://raw.githubusercontent.com/DanielZ8/bootstrap-one-page-layout/master/screenshots/3.png?token=GHSAT0AAAAAAB7PL7UNLZ4EB7C6QA4NE2GUZBYPNAA)
+![Screenshot](screenshots/3.png)
 
-![Screenshot](https://raw.githubusercontent.com/DanielZ8/bootstrap-one-page-layout/master/screenshots/4.png?token=GHSAT0AAAAAAB7PL7UNUP2KYHHMWCW4P2AMZBYPNKA)
+![Screenshot](screenshots/4.png)
 
-![Screenshot](https://raw.githubusercontent.com/DanielZ8/bootstrap-one-page-layout/master/screenshots/5.png?token=GHSAT0AAAAAAB7PL7UMIINECSPPVXQIW4Q6ZBYPNTA)
+![Screenshot](screenshots/5.png)
 
-![Screenshot](https://raw.githubusercontent.com/DanielZ8/bootstrap-one-page-layout/master/screenshots/6.png?token=GHSAT0AAAAAAB7PL7UMZE6XWLBUOPR2BLTEZBYPN7A)
+![Screenshot](screenshots/6.png)
 
-![Screenshot](https://raw.githubusercontent.com/DanielZ8/bootstrap-one-page-layout/master/screenshots/7.png?token=GHSAT0AAAAAAB7PL7UNEOWE2H4GB4W6IQJOZBYPOIQ)
+![Screenshot](screenshots/7.png)
 
 
 
