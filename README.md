@@ -13,7 +13,7 @@ Wykonany przy użyciu:
 
 ## Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/DanielZ8/bootstrap-one-page-layout/master/screenshots/1.png?token=GHSAT0AAAAAAB7PL7UM4TZSFKDM3W4ZZBNEZBYPRBA)
+![Screenshot](img/1.png)
 
 ![Screenshot](https://raw.githubusercontent.com/DanielZ8/bootstrap-one-page-layout/master/screenshots/2.png?token=GHSAT0AAAAAAB7PL7UMKIXYRJENXZYFPGX4ZBYPMZA)
 
